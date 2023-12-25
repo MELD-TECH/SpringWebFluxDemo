@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS test.employee (id BIGINT NOT NULL PRIMARY KEY, lastname VARCHAR(255), firstname VARCHAR(255), department varchar(255), gender varchar(15));
